@@ -13,19 +13,19 @@ We are asking our supporters, people who believe in us, and those who want to se
 Built for IT Pros to detect problems with computer systems. **Featuring Nexgen**, break-through malware detection algorithm and machine learning to detect malicious files on a Windows Operating System.
 
 ### 2️⃣ Prober Scripts
-Collection of RMM dashboard command-line scripts that collect and report important information such as hardware temperatures, SMART data, etc. for you to see on your list of computers you manage. These scripts are ready to upload onto your RMM dashboard and by default deloy into the C:\IT folder of machines you manage, and report back stats to your RMM dashboard software.
+Collection of RMM dashboard command-line scripts that collect and show important info, such as hardware temps, SMART data, etc. on your list of computers you manage, on your MSP RMM dashboard of choice. These scripts are ready to upload to your RMM dashboard and by default deloy into the C:\IT folder of machines you manage. 
 
-[TempProber](https://github.com/mikelierman/temprober): Uses OpenHardwareMonitor API to collectt HW temps.
+[TempProber](https://github.com/mikelierman/temprober): Uses OpenHardwareMonitor API to collect and display HW temps along with a PASS or FAIL next to each deployed PC.
 
-[SMARTProber](https://github.com/mikelierman/smartprober): HDD/SSD SMART data (pwr on hrs, current pending sectors, etc) - I'm still surprised to this day that RMM dashboard implementations of SMART data does not detect this information - neither day windows.
+[SMARTProber](https://github.com/mikelierman/smartprober): Displays HDD/SSD SMART data (pwr on hrs, current pending sectors, etc) with PASS or FAIl of SSDs / HDDs next to each deployed PC.
 
-[DeviceProber](https://github.com/mikelierman/smartprober): Scans Device Manager information and reports any devices or drivers with a Warning, Failure, or Missing status attached to them.
+[DeviceProber](https://github.com/mikelierman/smartprober): Scans Device Manager information and reports any devices or drivers with a Warning, Failure, or Missing status attached to them. E.g. sisplays "x devices OK, x MISSING drivers" next to deployed PCs.
 
-[NICProber](https://github.com/inviselabs/nicprober): Reports ethernet adapter connection speed status as 1gbps or 100mbps, which can assist you in troubleshooting network performance issues or be on the watch for clients using old cables or obsolete hardware.
+[NICProber](https://github.com/inviselabs/nicprober): Reports ethernet adapter connection speed status as 1gbps or 100mbps, which can assist you in troubleshooting network performance or watch for clients that attempt to use old cables or obsolete hardware.
 
-[ConnectivityProber](https://github.com/inviselabs/connectivityprober): (Name might change.) Every time your scripts fire, this does a ping to Google for 50 packets and measures the latency and connectivity issues. Reports average ms, latency issues, jitter, and dropped packets. Fantastic tool to give you information about whether a client's ISP has issues or not. We found a few of ours at Invise Solutions, when we deployed this script to a couple hundred machines. 
+[ConnectivityProber](https://github.com/inviselabs/connectivityprober): (Name might change.) Pings Google, or another server of your choice for 50 packets. Reports latency issues, average ms, jitter, and dropped packets. Displays status info next to each deployed PC.
 
-[FanProber](https://github.com/inviselabs/fanprober) **(COMING SOON)** Pulls fan speed information and attempts to detect abnormalities as such intermittent stopping. Collects and reports fan speeds and correct operation of fans. You would think that the motherboard and BIOS would monitor this informaiton correctly, but over at Invise Solutions, we had a biz client that was reporting occational PC crashing. After being physically there onsite during another occurence, we disocvered that the CPU fan was randomly stopping, and the CPU was heating up. 
+[FanProber](https://github.com/inviselabs/fanprober) **(COMING SOON)** Pulls fan speed info, attempts to detect operational issue of the fans, such as intermittent stopping, problematic RPM.
 
 ### 3️⃣ Hashet
 **COMING SOON**

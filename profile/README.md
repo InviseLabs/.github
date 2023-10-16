@@ -5,6 +5,8 @@ Invise Labs is a division of [Invise Solutions](https://invisesolutions.com/). *
 
 Through our day-to-day business we come up with all sorts of ideas for coding and automating things, if something works it's way into being a project, you'll find it here at Invise Labs. If it's not project worthy, you'll likely find it (scripts or other small trinkets) over at our [Invise Solutions Github page](https://github.com/invisesolutions/).
 
+👉🏼👉🏼 [Quick Dagger / Nexgen Combined Repo](https://github.com/inviselabs/quickdagger-nexgen): Latest release, info, feedback, planned changes, roadmap, Discord info etc.
+
 # Donations
 We are asking our supporters, people who believe in us, and those who want to see our projects succeed, to please consider making a donation to support development. We don't mind giving lifetime subscriptions in exchange - for projects that we eventually will be charging for. It costs money to run developement, pay for servers such as Google Cloud instances, and pay ourselves if we will be spending enough personal time. A dedicated project donations page will be created soon, in the meantime, you can use our [pay page at Invise Solutions](https://invisesolutions.com/pay).
 

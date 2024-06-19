@@ -11,11 +11,13 @@ Through our day-to-day business we come up with all sorts of ideas for coding an
 We are asking our supporters, people who believe in us, and those who want to see our projects succeed, to please consider making a donation to support development. We don't mind giving lifetime subscriptions in exchange - for projects that we eventually will be charging for. It costs money to run developement, pay for servers such as Google Cloud instances, and pay ourselves if we will be spending enough personal time. A dedicated project donations page will be created soon, in the meantime, you can use our [pay page at Invise Solutions](https://invisesolutions.com/pay).
 
 # Featured Projects 💽
-### 1️⃣ Quick Dagger
+### 1️⃣ QuickDag
+[View Github Page](https://github.com/InviseLabs/QuickDagger-Nexgen)
+
 Built for IT Pros to detect problems with computer systems. **Featuring Nexgen**, break-through malware detection algorithm and machine learning to detect malicious files on a Windows Operating System.
 
 ### 2️⃣ RMM Prober Scripts
-See also: https://github.com/InviseLabs/RMMProberScripts
+[View Github Page](https://github.com/InviseLabs/RMMProberScripts)
 
 A collection of deployable Windows-based command-line scripts designed to output concerning or important hardware or sensor info; eg. HDD SMART, HW Temps, packet drops, etc. Each tool outputs the associated raw troubleshooting values, along with a PASS or FAIL and proper exit codes. Use with RMM or IT Admin software to alert you when a script check fails. Tested with SyncroMPS and Solarwinds MSP RMM dashboards, but should work with any RMM dashboard that allows running remote scripts and checking output / exit codes. These scripts are ready to upload to your RMM dashboard and by default deloy into the C:\IT folder.
 

@@ -22,6 +22,7 @@ We are asking our supporters, people who believe in us, and those who want to se
 
 Built for IT Pros to detect problems with computer systems. **Featuring Nexgen**, break-through malware detection algorithm and machine learning to detect malicious files on a Windows Operating System.
 
+<br/>
 ### 2️⃣ RMM Prober Scripts
 [View Github Page](https://github.com/InviseLabs/RMMProberScripts)
 
@@ -39,13 +40,16 @@ A collection of deployable Windows-based command-line scripts designed to output
 
 **[FanProber](https://github.com/InviseLabs/RMMProberScripts-FanProber):** ***(COMING SOON)*** Pulls fan speed info, attempts to detect operational issue of the fans, such as intermittent stopping, problematic RPM.
 
-
+<br/><br/>
 ### 3️⃣ Hashet
 **COMING SOON**
+
+<br/>
 
 ### 4️⃣ Hunter Script
 **COMING SOON**
 
+<br/><br/>
 # Invise Labs Public License
  **Licensing:**
   Please adhere to these terms when using, modifying, and distributing these scripts.

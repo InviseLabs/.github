@@ -1,5 +1,5 @@
 # Well, hello! 👨🏽‍💻
-Invise Labs is a division of [Invise Solutions IT Services](https://invisesolutions.com/). **We primarily maintain a growing list of free projects and programs geared towards use by those in technology fields, including cyber cecurity pros**. We're paving the way for exciting new technological inventions inspired by [Mike](https://github.com/MNLierman), our every day IT business [Invise Solutions](https://invisesolutions.com), our malware hunting, and the endless possiblities we think of every day.
+Invise Labs is a division of [Invise Solutions IT Services](https://invisesolutions.com/). **We primarily maintain a growing number of free projects and programs geared towards use by those in technology fields, including cyber cecurity pros**. We're paving the way for exciting new technological inventions inspired by [Mike](https://github.com/MNLierman), our every day IT business [Invise Solutions](https://invisesolutions.com), our malware hunting, and the endless possiblities we think of every day.
 
 **So who exactly are we?** We're a team of IT professionals who fly by night as computer programmers – well, not anymore, but we were, things are a bit more serious now in comparison to back in the day, when Invise Labs started in November 2016.
 
